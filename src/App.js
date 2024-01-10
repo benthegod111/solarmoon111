@@ -1,14 +1,12 @@
 // App.jsx
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 import './App.css';
 import sound from './assets/music/music.mp3';
 import hawking from './assets/btc.png';
 import aboutImg from './assets/approved.png';
 import telegram from './assets/telegram.svg';
 import twitter from './assets/twitter.svg';
-import { useTypingEffect } from './hooks/typing-effect';
 import Overlay from './components/Overlay';
-import { omit } from 'lodash';
 
 function App() {
   const contract = 'TBA';
