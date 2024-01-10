@@ -41,7 +41,7 @@ function App() {
                   BITCOIN ETF <br />
                   <span className="whiteText">FINALLY APPROVED</span>
                 </h1>
-                <a href="#">
+                <a href="www.google.com">
                   <button class="button mainButton">
                     JET THE $BTCETF
                   </button>
