@@ -51,7 +51,7 @@ export default function Overlay({ playAudio }) {
       >
         <div className="overlay-inside">
           <h1 className="heading overlayText">
-            <span className="whiteText">Stephen Hawking</span> <br/>Caribbean Island
+            <span className="whiteText">BTC ETF</span> <br/>APPROVED
           </h1>
           <div className="imagesOverlay">
             <div>
